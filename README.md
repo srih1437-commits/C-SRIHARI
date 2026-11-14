@@ -60,7 +60,7 @@
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [C Srihari](https://www.linkedin.com/in/sri-hari-739b242bb)
-- **GitHub:** [C-Srihari](https://github.com/srih1437)
+- **GitHub:** [C-Srihari](https://github.com/srih1437-commits)
 - **Email:** srih1437@gmail.com
 
 ---
